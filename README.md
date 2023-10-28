@@ -1,3 +1,7 @@
+![image](https://github.com/Tim275/Serverless-Blog-app-BACKEND/assets/117520669/baf13152-f44c-4ec6-a918-beb018e28470)
+
+
+
 # Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
