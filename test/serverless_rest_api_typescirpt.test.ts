@@ -1,6 +1,6 @@
-// import * as cdk from 'aws-cdk-lib';
-// import { Template } from 'aws-cdk-lib/assertions';
-// import * as ServerlessRestApiTypescirpt from '../lib/serverless_rest_api_typescirpt-stack';
+ import * as cdk from 'aws-cdk-lib';
+ import { Template } from 'aws-cdk-lib/assertions';
+ import * as ServerlessRestApiTypescirpt from '../lib/rest_api-stack';
 
 // example test. To run these tests, uncomment this file along with the
 // example resource in lib/serverless_rest_api_typescirpt-stack.ts
