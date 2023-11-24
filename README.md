@@ -1,4 +1,4 @@
-## actual state
+## actual state  visualized with Swagger UI
 
 ![image](https://github.com/Tim275/Serverless-Blog-app-BACKEND/assets/117520669/baf13152-f44c-4ec6-a918-beb018e28470)
 
